@@ -1,0 +1,247 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thanhnt.edu.vn" resolutions="1x" timestamp="1580960238628">
+  <folder name="fonts">
+    <file name="fa-solid-900.woff" crc="3826485693"/>
+    <file name="fa-solid-900.eot" crc="3840767575"/>
+    <file name="fa-solid-900.svg" crc="100090068"/>
+    <file name="fa-brands-400.woff" crc="3860150785"/>
+    <file name="fa-brands-400.eot" crc="3799255277"/>
+    <file name="fa-brands-400.svg" crc="185214470"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="47468005" ref="index"/>
+    <file name="sanpham.css" crc="99910754" ref="sanpham"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:sanpham"/>
+    <file name="museutils.js" crc="3803043152" ref="index:sanpham"/>
+    <file name="whatinput.js" crc="86476730" ref="index:sanpham"/>
+    <file name="museconfig.js" crc="380897831" ref="index:sanpham"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:sanpham"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:sanpham"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:sanpham"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index:sanpham"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:sanpham"/>
+    <file name="require.js" crc="4157109226" ref="index:sanpham"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index:sanpham"/>
+    <file name="u211.png" crc="42375380" ref="index"/>
+    <file name="u211-r.png" crc="28975248" ref="index"/>
+    <file name="u211-a.png" crc="28975248" ref="index"/>
+    <file name="2581558.jpg" crc="63903707" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u481.png" crc="3804722885" ref="index"/>
+    <file name="u481-r.png" crc="183959040" ref="index"/>
+    <file name="u680.png" crc="3834148798" ref="index"/>
+    <file name="u680-r.png" crc="3886227000" ref="index"/>
+    <file name="2.jpg" crc="3900041208" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u485.png" crc="125552747" ref="index"/>
+    <file name="u485-r.png" crc="3773116765" ref="index"/>
+    <file name="u686.png" crc="4262311761" ref="index"/>
+    <file name="u686-r.png" crc="4154338740" ref="index"/>
+    <file name="untitled-2.png" crc="4205849452" ref="index:sanpham">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="san_pham" alt=""/>
+      <caption webpage="san_pham" alt=""/>
+      <caption webpage="san_pham" alt=""/>
+      <caption webpage="san_pham" alt=""/>
+      <caption webpage="san_pham" alt=""/>
+      <caption webpage="sanpham" alt=""/>
+      <caption webpage="sanpham" alt=""/>
+      <caption webpage="sanpham" alt=""/>
+      <caption webpage="sanpham" alt=""/>
+      <caption webpage="sanpham" alt=""/>
+    </file>
+    <file name="3219705.jpg" crc="4059800262" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1302.png" crc="309168283" ref="index"/>
+    <file name="u1302-r.png" crc="3939126718" ref="index"/>
+    <file name="u1303-7.png" crc="141803831" ref="index"/>
+    <file name="sssa.png" crc="4025507395" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sss.png" crc="3844259790" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bannernau-vang-01.jpg" crc="430231015" ref="index:sanpham">
+      <caption webpage="index" alt=""/>
+      <caption webpage="san_pham" alt=""/>
+    </file>
+    <file name="u2467-6.png" crc="77840792" ref="index"/>
+    <file name="bannerxanh-vang-01.jpg" crc="3896353427" ref="index:sanpham">
+      <caption webpage="index" alt=""/>
+      <caption webpage="san_pham" alt=""/>
+    </file>
+    <file name="cb11-01.jpg" crc="72600060" ref="index:sanpham">
+      <caption webpage="index" alt=""/>
+      <caption webpage="san_pham" alt=""/>
+      <caption webpage="sanpham" alt=""/>
+    </file>
+    <file name="cb4-01.jpg" crc="4078727196" ref="index:sanpham">
+      <caption webpage="index" alt=""/>
+      <caption webpage="san_pham" alt=""/>
+      <caption webpage="sanpham" alt=""/>
+    </file>
+    <file name="cb12-01.jpg" crc="164057275" ref="index:sanpham">
+      <caption webpage="index" alt=""/>
+      <caption webpage="san_pham" alt=""/>
+      <caption webpage="sanpham" alt=""/>
+    </file>
+    <file name="u2473-4.png" crc="534962681" ref="index"/>
+    <file name="mockupthiepcuoinauhong.jpg" crc="4088312328" ref="index:sanpham">
+      <caption webpage="index" alt=""/>
+      <caption webpage="san_pham" alt=""/>
+      <caption webpage="sanpham" alt=""/>
+    </file>
+    <file name="mockupthiepcuoixanhhong.jpg" crc="3920979407" ref="index:sanpham">
+      <caption webpage="index" alt=""/>
+      <caption webpage="san_pham" alt=""/>
+      <caption webpage="sanpham" alt=""/>
+    </file>
+    <file name="u2489-4.png" crc="3809570092" ref="index"/>
+    <file name="fcvh-100.jpg" crc="3824025274" ref="index:sanpham">
+      <caption webpage="index" alt=""/>
+      <caption webpage="san_pham" alt=""/>
+      <caption webpage="sanpham" alt=""/>
+    </file>
+    <file name="5d84e72a1c3bb-01.jpg" crc="277437738" ref="index:sanpham">
+      <caption webpage="index" alt=""/>
+      <caption webpage="san_pham" alt=""/>
+      <caption webpage="sanpham" alt=""/>
+    </file>
+    <file name="u2480-4.png" crc="208570609" ref="index"/>
+    <file name="u2481-4.png" crc="3871411746" ref="index"/>
+    <file name="fcvh.jpg" crc="28065848" ref="index:sanpham">
+      <caption webpage="index" alt=""/>
+      <caption webpage="san_pham" alt=""/>
+      <caption webpage="sanpham" alt=""/>
+    </file>
+    <file name="2020.jpg" crc="4214763799" ref="index:sanpham">
+      <caption webpage="index" alt=""/>
+      <caption webpage="san_pham" alt=""/>
+      <caption webpage="sanpham" alt=""/>
+    </file>
+    <file name="sóix.jpg" crc="209281956" ref="index:sanpham">
+      <caption webpage="index" alt=""/>
+      <caption webpage="san_pham" alt=""/>
+      <caption webpage="sanpham" alt=""/>
+    </file>
+    <file name="u2477-12.png" crc="187762672" ref="index"/>
+    <file name="u2909.png" crc="3766053818" ref="index"/>
+    <file name="u2909-r.png" crc="439053811" ref="index"/>
+    <file name="u2909-a.png" crc="4221303010" ref="index"/>
+    <file name="536.jpg" crc="3878786417" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1587-7.png" crc="467733658" ref="index"/>
+    <file name="u1588.png" crc="242614163" ref="index"/>
+    <file name="u1588-r.png" crc="430240778" ref="index"/>
+    <file name="u2912.png" crc="3766053818" ref="index"/>
+    <file name="u2912-r.png" crc="439053811" ref="index"/>
+    <file name="u2912-a.png" crc="4221303010" ref="index"/>
+    <file name="ae.png" crc="4280770414" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ecommerce.jpg" crc="4248557306" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="91368z.jpg" crc="4212605165" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1758.png" crc="4233190606" ref="index"/>
+    <file name="u1758-r.png" crc="3945687317" ref="index"/>
+    <file name="u1759.png" crc="131949514" ref="index"/>
+    <file name="u1759-r.png" crc="98926521" ref="index"/>
+    <file name="u1755-4.png" crc="4133472390" ref="index"/>
+    <file name="u1757-5.png" crc="4097256493" ref="index"/>
+    <file name="u1754-8.png" crc="439863406" ref="index"/>
+    <file name="u1756-5.png" crc="119053823" ref="index"/>
+    <file name="2581561.jpg" crc="411145929" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1830-9.png" crc="3998343036" ref="index"/>
+    <file name="u1831.png" crc="467670594" ref="index"/>
+    <file name="u1831-r.png" crc="3965567010" ref="index"/>
+    <file name="73938sd.jpg" crc="3962504746" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1828.png" crc="31272953" ref="index"/>
+    <file name="u1828-r.png" crc="509460216" ref="index"/>
+    <file name="u1829-13.png" crc="4055904406" ref="index"/>
+    <file name="u1823.png" crc="3800270938" ref="index"/>
+    <file name="u1823-r.png" crc="507176577" ref="index"/>
+    <file name="u1823-a.png" crc="192375208" ref="index"/>
+    <file name="u1812.png" crc="4135968075" ref="index"/>
+    <file name="u1812-r.png" crc="507454108" ref="index"/>
+    <file name="u1812-a.png" crc="2768978" ref="index"/>
+    <file name="u1816.png" crc="3787498002" ref="index"/>
+    <file name="u1816-r.png" crc="4280703094" ref="index"/>
+    <file name="u1816-a.png" crc="18784384" ref="index"/>
+    <file name="u1819.png" crc="138333917" ref="index"/>
+    <file name="u1819-r.png" crc="140734740" ref="index"/>
+    <file name="u1819-a.png" crc="4168843269" ref="index"/>
+    <file name="u1804-7.png" crc="467101775" ref="index"/>
+    <file name="u1806-7.png" crc="3995424196" ref="index"/>
+    <file name="u1797-7.png" crc="4239793326" ref="index"/>
+    <file name="u1801-7.png" crc="228480059" ref="index"/>
+    <file name="u1825.png" crc="431057046" ref="index"/>
+    <file name="u1825-r.png" crc="394960445" ref="index"/>
+    <file name="u1833-6.png" crc="4038276115" ref="index"/>
+    <file name="u1834-6.png" crc="261892260" ref="index"/>
+    <file name="u1835-4.png" crc="456730794" ref="index"/>
+    <file name="u1836-4.png" crc="3998097059" ref="index"/>
+    <file name="u1837-4.png" crc="481936678" ref="index"/>
+    <file name="u1840.png" crc="3784816122" ref="index"/>
+    <file name="u1840-r.png" crc="203201932" ref="index"/>
+    <file name="untitled-3.png" crc="4262979539" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u118-4-a.png" crc="389125319" ref="index"/>
+    <file name="u3710.png" crc="3869872404" ref="index"/>
+    <file name="u3710-r.png" crc="3797529042" ref="index"/>
+    <file name="u3262-6.png" crc="77840792" ref="sanpham"/>
+    <file name="u3267-4.png" crc="534962681" ref="sanpham"/>
+    <file name="u3283-4.png" crc="3809570092" ref="sanpham"/>
+    <file name="u3274-4.png" crc="208570609" ref="sanpham"/>
+    <file name="u3275-4.png" crc="3871411746" ref="sanpham"/>
+    <file name="u3271-12.png" crc="187762672" ref="sanpham"/>
+    <file name="u3716.png" crc="530293261" ref="sanpham"/>
+    <file name="u3716-r.png" crc="389125319" ref="sanpham"/>
+    <file name="u3716-a.png" crc="389125319" ref="sanpham"/>
+    <file name="u3726-4-a.png" crc="28975248" ref="sanpham"/>
+    <file name="u3729.png" crc="3869872404" ref="sanpham"/>
+    <file name="u3729-r.png" crc="3797529042" ref="sanpham"/>
+    <file name="u5102-4.png" crc="530014695" ref="index"/>
+    <file name="u5101_states.png" crc="81389453" ref="index"/>
+    <file name="u5101_states-r.png" crc="273876953" ref="index"/>
+    <file name="u4665-4.png" crc="273876953" ref="sanpham"/>
+    <file name="u5072_states.png" crc="4044985075" ref="sanpham"/>
+    <file name="u5072_states-r.png" crc="530014695" ref="sanpham"/>
+  </folder>
+  <file name="index.html" crc="16219177" seo="true" mt="1580960214557" redirect="true"/>
+  <file name="sanpham.html" crc="410487668" seo="true" mt="1580808571977" redirect="true"/>
+</manifest>
